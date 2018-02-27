@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e66ab1ee6fc26a14788f3322735ec048
+timeCreated: 1512687414
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: four potatoes farm
+  fontNames:
+  - four potatoes farm
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

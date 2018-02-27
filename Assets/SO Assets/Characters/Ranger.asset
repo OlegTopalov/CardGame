@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 224494676b1dd3043b5159ea5e6181d3, type: 3}
+  m_Name: Ranger
+  m_EditorClassIdentifier: 
+  Class: 4
+  ClassName: Ranger
+  MaxHealth: 50
+  HeroPowerName: 
+  AvatarImage: {fileID: 21300000, guid: 4da7a1943c6ab9c41858563e666bc50f, type: 3}
+  HeroPowerIconImage: {fileID: 21300000, guid: 39e20c598fe4b8b4f9199373fa52bf68, type: 3}
+  AvatarBGImage: {fileID: 0}
+  HeroPowerBGImage: {fileID: 0}
+  AvatarBGTint:
+    serializedVersion: 2
+    rgba: 4280329514
+  HeroPowerBGTint:
+    serializedVersion: 2
+    rgba: 4280329514
+  FractionCardTint:
+    serializedVersion: 2
+    rgba: 4292145888
+  FractionRibbonsTint:
+    serializedVersion: 2
+    rgba: 3508577578
